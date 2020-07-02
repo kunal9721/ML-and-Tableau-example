@@ -1,3 +1,5 @@
+Check out branchto see my solution to use cases below.
+
 Use case1: Cluster attached 4 vehicles basis the route taken by them and then generate insights like – Average Speed/Drive time/Fuel consumed and Total Trips taken by vehicles in that cluster.
 
 Trip starts from: "SamaiPur, Delhi" to: "Chadarghat" or "Fursungi, Pune"
